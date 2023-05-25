@@ -1,5 +1,6 @@
 # 2022 Yangtze River Basin Heatwave attribution
 Python code and Jupyter notebooks support the manuscript "Relative contributions of large-scale atmospheric circulation dynamics and anthropogenic warming to the unprecedented 2022 Yangtze River Basin Heatwave" by Zeqin Huang et al.
+
 ![CCA_YRB](Figures/Fig4_2022_CCA_construct_Z500.png)
 
 ## What's included
@@ -9,7 +10,7 @@ The analysis notebooks include the ensemble constructed circulation analogue (CC
 > Both geopotential height at 500 hPa pressure level (Z500) and sea level pressure (SLP) are utilized for the ensemble CCA analysis.
 * [CCA_analysis_for_2022_YRB_HW_Z500.ipynb](Notebook/CCA_analysis_for_2022_YRB_HW_Z500.ipynb)
 * [CCA_analysis_for_2022_YRB_HW_SLP.ipynb](Notebook/CCA_analysis_for_2022_YRB_HW_SLP.ipynb)
-> Figs. 1~5 an S1~S6 are generated using *matplotlib* and *proplot*
+> Figs. 1\~5 an S1\~S6 are generated using *matplotlib* and *proplot*
 * [Fig1_unprecedented_YRB_HW.ipynb](Notebook/Fig1_unprecedented_YRB_HW.ipynb)
 * [Fig2_S2_YRB_HW_nonstationary_fitting.ipynb](Notebook/Fig2_S2_YRB_HW_nonstationary_fitting.ipynb)
 * [Fig3_Large-scale_conditions_2022.ipynb](Notebook/Fig3_Large-scale_conditions_2022.ipynb)
@@ -30,6 +31,7 @@ The nonstationary generalized extreme value (GEV) is adapted from https://github
 ## Thanks
 * https://github.com/russellhz/extreme_heat_CCA.
 * https://github.com/clairbarnes/wwa.
+
 
 
 
