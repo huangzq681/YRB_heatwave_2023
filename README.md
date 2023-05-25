@@ -21,8 +21,10 @@ The analysis notebooks include the ensemble constructed circulation analogue (CC
 * [FigS5_CCA_plot_for_2022_YRB_HW_SLP.ipynb](Notebook/FigS5_CCA_plot_for_2022_YRB_HW_SLP.ipynb)
 * [FigS6_CCA_plot_for_historical_SLP.ipynb](Notebook/FigS6_CCA_plot_for_historical_SLP.ipynb)
 ### Scripts
-The nonstationary generalized extreme value (GEV) is adapted from https://github.com/clairbarnes/wwa.
+The script for nonstationary generalized extreme value (GEV) fitting is adapted from https://github.com/clairbarnes/wwa.
 * [nonstationary_fitting.py](Scripts/nonstationary_fitting.py)
+### Figures
+ALL the supporting figures for the manuscript.
 
 ## Datasets
 * ERA5: The ERA5 data is available from the European Centre for Medium-range Weather Forecasts (ECMWF, https://www.ecmwf.int).
