@@ -1,7 +1,7 @@
 # 2022 Yangtze River Basin Heatwave attribution
 Python code and Jupyter notebooks support the manuscript "Relative contributions of large-scale atmospheric circulation dynamics and anthropogenic warming to the unprecedented 2022 Yangtze River Basin Heatwave" by Zeqin Huang et al.
 
-![CCA_YRB](Figures/Fig5_2022_CCA_construct_Z500.png)
+![CCA_YRB](Figures/Fig5_2022_CCA_construct.png)
 
 ## What's included
 ### Notebook
